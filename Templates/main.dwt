@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Untitled Document</title>
+	<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+<link href="../media/favicon.png" rel="icon">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<header class="header">Content for  class "header" Goes Here</header>
+<nav class="navigation"><ul>
+	<li><a href="../index.html">Home</a></li>
+	<li><a href="../cabins.html">Cabins</a></li>
+	<li><a href="../gallery.html">Gallery</a></li>
+	<li><a href="../contact.html">Contact</a></li>
+	</ul></nav>
+	<main><!-- TemplateBeginEditable name="main" -->Content for New main Tag Goes Here<!-- TemplateEndEditable --></main>
+	<footer>Created by Madan 2023</footer>
+</body>
+</html>
