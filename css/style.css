@@ -1,2 +1,52 @@
 @charset "utf-8";
 /* CSS Document */
+
+/*Header start here*/
+.header{
+	width: 80%;
+	margin-left: auto;
+}
+
+
+/*Navigation Menu*/
+.navigation{
+	
+  width:100%;
+  padding:10px;
+  text-align: center;
+}
+
+ul {
+  padding:0;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px 20px;
+  font-variant: small-caps;
+}
+
+a:link{
+  color:#55BFB3;
+}
+
+a:visited{
+    color:#9B42D7;
+}
+
+a:hover{
+    color:#4C3639;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+}
+
+
+a:active{
+  color:#1E8CA0;
+  font-weight:bold;
+}
+
+/* Navigation ends here */
