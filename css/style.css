@@ -50,3 +50,61 @@ a:active{
 }
 
 /* Navigation ends here */
+
+/*Contact Page bgins here */
+
+.contact_main h1{
+	padding: 10px;
+	marginlL:10px;
+	color: #C7B299;
+	font-size: 44px;
+}
+
+.contact_main p{
+	padding: 10px;
+	marginlL:10px;
+	color: #808285;
+	font-size: 16px;	
+}
+#touch{
+	width: 30%;
+	marign-right:auto;
+}
+
+.flexcontact{
+	display: flex;
+	flex-direction: row;
+	
+}
+#contact{
+	width: 30%;
+	border: 1px solid black;
+	padding:10px;
+	margin: 10px;
+	
+	
+}
+#form{
+	width: 30%;
+	border: 1px solid black;
+	padding:10px;
+	margin: 10px;
+}
+/*Contact Page ends here */
+
+/*Gallery Page goes here*/
+#gallery{
+	line-height: 0;
+	-webkit-column-count:5;
+	-webkit-column-gap:5px;
+	-moz-column-count:5;
+	-mox-column0gap:5px;
+	column-count:5;
+	column-gap:5px;
+}
+#gallery img{
+	width:100% !important;
+	height: auto !important;
+	margin-bottom: 5px;
+	transition:filter 2s;
+}
