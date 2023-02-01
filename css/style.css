@@ -108,11 +108,11 @@ h2{
 /*Gallery Page goes here*/
 #gallery{
 	line-height: 0;
-	-webkit-column-count:5;
+	-webkit-column-count:4;
 	-webkit-column-gap:5px;
-	-moz-column-count:5;
+	-moz-column-count:4;
 	-mox-column0gap:5px;
-	column-count:5;
+	column-count:4;
 	column-gap:5px;
 }
 #gallery img{
@@ -133,9 +133,42 @@ footer{
 .map{
 	margin:auto;
 	padding: 10px;
+	width:100%
+	
 	
 }
 
-iframe{
+maps{
 	width:100%;
+}
+
+
+div{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:5px;
+	margin-bottom: 5px;
+	overflow: auto;
+}
+.cabins{
+	display: flex;
+	flex-direction:row;
+}
+
+.cabinsection{
+	width: 45%;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	margin:5px;
+	padding: 5px;
+}
+.cabinsection img{
+	width: 100%;
+	height: auto;
+}
+.cabinsection iframe{
+	width:100%;
+	height: auto;
 }
