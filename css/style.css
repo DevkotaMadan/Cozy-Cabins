@@ -53,14 +53,27 @@ a:active{
 
 /*Contact Page bgins here */
 
-.contact_main h1{
+h1{
 	padding: 10px;
 	marginlL:10px;
 	color: #C7B299;
 	font-size: 44px;
 }
 
+h2{
+	padding: 10px;
+	marginlL:10px;
+	color: #C7B299;
+	font-size: 30px;
+}
 .contact_main p{
+	padding: 10px;
+	marginlL:10px;
+	color: #808285;
+	font-size: 16px;	
+}
+
+.a {
 	padding: 10px;
 	marginlL:10px;
 	color: #808285;
@@ -107,4 +120,22 @@ a:active{
 	height: auto !important;
 	margin-bottom: 5px;
 	transition:filter 2s;
+}
+
+footer{
+	padding: 10px;
+	marginlL:10px;
+	color: #C7B299;
+	font-size: 25px;
+	text-align: center;
+}
+
+.map{
+	margin:auto;
+	padding: 10px;
+	
+}
+
+iframe{
+	width:100%;
 }
