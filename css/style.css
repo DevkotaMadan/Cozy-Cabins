@@ -144,7 +144,7 @@ maps{
 
 
 div{
-	width: 80%;
+	width: 95%;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top:5px;
@@ -157,12 +157,13 @@ div{
 }
 
 .cabinsection{
-	width: 45%;
+	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
 	height: auto;
 	margin:5px;
 	padding: 5px;
+	height: auto;
 }
 .cabinsection img{
 	width: 100%;
@@ -170,5 +171,5 @@ div{
 }
 .cabinsection iframe{
 	width:100%;
-	height: auto;
+	height:auto;
 }
