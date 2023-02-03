@@ -162,14 +162,22 @@ div{
 	margin-right: auto;
 	height: auto;
 	margin:5px;
-	padding: 5px;
-	height: auto;
 }
 .cabinsection img{
-	width: 100%;
+	width: 95%;
 	height: auto;
 }
 .cabinsection iframe{
 	width:100%;
 	height:auto;
+}
+
+.amminities ul{
+	margin: 5px;
+	padding: 10px
+}
+
+.amminities li{
+	display:block;
+	color: #C7B299;
 }
